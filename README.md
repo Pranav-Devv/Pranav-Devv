@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 I’m currently working on improving my programming skills and building small tech projects<br>👯 I’m looking to collaborate on beginner-friendly projects, especially in web development and software development<br>🤝 I’m looking for help with advanced coding concepts and real-world project guidance<br>🌱 I’m currently learning Data Structures, Algorithms, and core Computer Science subjects<br>💬 Ask me about coding basics, college life, and starting tech projects<br>
+<br>🔭 I’m currently working on improving my programming skills and building small tech projects<br>👯 I’ am looking to collaborate on beginner-friendly projects, especially in web development and software development<br>🤝 I’m looking for help with advanced coding concepts and real-world project guidance<br>🌱 I’m currently learning Data Structures, Algorithms, and core Computer Science subjects<br>💬 Ask me about coding basics, college life, and starting tech projects<br>
 
 
 ## 🌐 Socials:
